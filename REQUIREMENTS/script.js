@@ -18,3 +18,7 @@ function openCFS() {
 function openCastList() {
   window.location.href = '../subpages/minimovies/subpages/cast.html';
 }
+
+function hack() {
+  window.location.href = 'https://www.youtube.com/watch?v=dQw4w9WgXcQ';
+}
