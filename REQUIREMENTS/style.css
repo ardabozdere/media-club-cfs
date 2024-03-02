@@ -28,12 +28,12 @@ body {
 
 button {
   background-color: black;
-  color: white;
+  color: red;
   border-radius: 8px;
   font-size: 2vw;
 }
 
 .button:hover {
-  background-color: darkgray;
-  color: black;
+  background-color: navyss;
+  color: yellow;
 }
