@@ -13,13 +13,10 @@ body {
 }
 
   
-@font-face {
-  font-family: OldLondon;
-  src: url("OldLondon.ttf") format('truetype');
-}
+
 
 .Main_Title {
-  font-family: OldLondon, Arial, Helvetica, sans-serif;
+  font-family: Arial, Helvetica, sans-serif;
 }
 
 .description {
@@ -28,12 +25,12 @@ body {
 
 button {
   background-color: black;
-  color: red;
+  color: rgb(107, 19, 19);
   border-radius: 8px;
   font-size: 1.4355vw;
 }
 
 .button:hover {
   background-color: navyss;
-  color: yellow;
+  color: rgb(207, 207, 31);
 }
