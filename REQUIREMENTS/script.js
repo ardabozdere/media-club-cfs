@@ -18,7 +18,7 @@ function openCFS() {
 function openCastList() {
   window.location.href = '../subpages/minimovies/subpages/cast.html';
 }
-
-function openArchive() {
+//trying to def the vault button arda (this is Derrick btw)
+function openVault() {
   window.location.href = '../subpages/vault/vault.html';
 }
